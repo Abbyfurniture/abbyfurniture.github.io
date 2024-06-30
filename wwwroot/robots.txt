@@ -1,5 +1,0 @@
-User-Agent: *
-Disallow: /bin/
-Disallow: /controls/
-Allow: /
-Sitemap: https://www.cyberwayez.com/sitemap.xml
