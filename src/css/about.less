@@ -1,0 +1,100 @@
+﻿@import 'Common/variable.less';
+@import 'hero.less';
+
+body {
+    .whoweare {
+        > article {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px 50px;
+            flex-direction: column;
+            max-width: 600px;
+        }
+
+        &-title {
+            width: 100%;
+
+            h2 {
+                text-align: left;
+                color: var(--primaryColor);
+            }
+        }
+
+        &-information {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            max-width: 600px;
+            width: 100%;
+
+            p {
+                font-size: 1rem;
+                color: var(--primaryColor);
+                text-align: justify;
+            }
+        }
+    }
+
+    .colounm {
+
+        > article {
+            display: grid;
+            grid-template-columns: 1fr;
+            align-items: flex-start;
+            justify-content: center;
+            gap: 50px;
+            max-width: 600px;
+        }
+
+        &-item {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            align-items: flex-start;
+
+            h2 {
+                text-align: left;
+                color: var(--primaryColor);
+                margin: 0;
+            }
+
+            p {
+                font-size: 1rem;
+                color: var(--primaryColor);
+                text-align: justify;
+            }
+        }
+    }
+}
+
+
+@media @break-large{
+    body {
+        .whoweare {
+            > article {
+                flex-direction: row;
+                max-width: var(--maxWidth);
+            }
+        }
+
+        .colounm {
+            > article {
+                grid-template-columns: 1fr 1fr;
+                max-width: var(--maxWidth);
+            }
+
+            &-item {
+                align-items: center;
+
+                h2 {
+                    text-align: center;
+                }
+
+                p {
+                    text-align: justify;
+                }
+            }
+        }
+    }
+}

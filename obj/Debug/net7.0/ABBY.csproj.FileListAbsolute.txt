@@ -1,0 +1,89 @@
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\.mateconfig.json
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\appsettings.json
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\package-lock.json
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\package.json
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\tsconfig.json
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\ABBY.staticwebassets.runtime.json
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\ABBY.exe
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\ABBY.deps.json
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\ABBY.runtimeconfig.json
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\ABBY.dll
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\ABBY.pdb
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\AngryMonkey.CloudWeb.dll
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\AngryMonkey.CloudWeb.MVC.dll
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.csproj.AssemblyReference.cache
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.AssemblyInfoInputs.cache
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.AssemblyInfo.cs
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.csproj.CoreCompileInputs.cache
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.RazorAssemblyInfo.cache
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.RazorAssemblyInfo.cs
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\staticwebassets\msbuild.ABBY.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\staticwebassets\msbuild.build.ABBY.props
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ABBY.props
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ABBY.props
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\scopedcss\bundle\ABBY.styles.css
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.csproj.Up2Date
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.dll
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\refint\ABBY.dll
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.pdb
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ABBY.genruntimeconfig.cache
+C:\Users\farha\Downloads\New folder (3)\ABBY-master\ABBY\obj\Debug\net7.0\ref\ABBY.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\.mateconfig.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\appsettings.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\package-lock.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\package.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\tsconfig.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\ABBY.staticwebassets.runtime.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\ABBY.exe
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\ABBY.deps.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\ABBY.runtimeconfig.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\ABBY.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\ABBY.pdb
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\AngryMonkey.CloudWeb.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\AngryMonkey.CloudWeb.MVC.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.csproj.AssemblyReference.cache
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.AssemblyInfoInputs.cache
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.AssemblyInfo.cs
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.csproj.CoreCompileInputs.cache
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.RazorAssemblyInfo.cache
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.RazorAssemblyInfo.cs
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.sourcelink.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\staticwebassets\msbuild.ABBY.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\staticwebassets\msbuild.build.ABBY.props
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ABBY.props
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ABBY.props
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\scopedcss\bundle\ABBY.styles.css
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.csproj.Up2Date
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\refint\ABBY.dll
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.pdb
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ABBY.genruntimeconfig.cache
+C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\obj\Debug\net7.0\ref\ABBY.dll

@@ -1,0 +1,319 @@
+:root {
+  --primaryColor: #734B34;
+  --secondaryColor: #F1B47E;
+  --brownColor: #A67A53;
+  --greyColor: #343740;
+  --blackColor: #090B0D;
+  --blackColorOpacity: #00000059;
+  --whiteColor: #FFFFFF;
+  --opacityColor: #DFDFDF;
+  --duration: 0.4s ease-in-out;
+  --headerHeight: 100px;
+  --headerbgColor: transparent;
+  --maxWidth: 1200px;
+  --raduis: 5px;
+}
+body .header {
+  background-color: var(--primaryColor);
+}
+body .header-left li a,
+body .header-right li a {
+  color: var(--whiteColor);
+}
+body .header-left li a:before,
+body .header-right li a:before,
+body .header-left li a:after,
+body .header-right li a:after {
+  background-color: var(--whiteColor);
+}
+body main {
+  margin-top: calc(var(--headerHeight) - 30px);
+}
+body .hero {
+  min-height: 380px;
+  max-height: 850px;
+  background-image: url(/img/about/hero.webp);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-block: var(--headerHeight);
+}
+body .hero > article {
+  z-index: 3;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+body .hero > article h2 {
+  text-align: center;
+  color: var(--whiteColor);
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+body .hero > article span {
+  font-size: 2rem;
+  text-align: center;
+  color: var(--whiteColor);
+}
+body .hero:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--blackColorOpacity);
+  z-index: 2;
+}
+@media only screen and (min-width: 800px) {
+  .hero > article {
+    max-width: var(--maxWidth);
+  }
+  .hero span {
+    font-size: 3rem;
+  }
+}
+body .contact > article {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px 100px;
+}
+body .contact-image {
+  min-height: 400px;
+  width: 100%;
+  position: relative;
+  background-image: url(/img/contact/contact.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-block: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body .contact-image h2 {
+  color: var(--whiteColor);
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  z-index: 3;
+}
+body .contact-image:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--blackColorOpacity);
+  z-index: 2;
+}
+body .contact-info {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+body .contact-info > div {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+}
+body .contact-info > div span {
+  font-size: 1.5rem;
+  color: var(--primaryColor);
+  text-transform: capitalize;
+  margin: 0;
+  text-align: center;
+}
+body .contact-info > div p {
+  margin: 0;
+}
+body .contact-info > div a,
+body .contact-info > div p {
+  font-size: 1rem;
+  color: var(--primaryColor);
+  text-align: center;
+}
+body .contact-info > div a {
+  padding: 5px;
+  transition: all var(--duration);
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+body .contact-info > div a:hover {
+  color: var(--secondaryColor);
+}
+body .contact-info > div .directory {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+body .contact-info > div .directory span {
+  color: var(--primaryColor);
+  font-size: 1rem;
+  transition: all var(--duration);
+  font-weight: bold;
+}
+body .contact-info > div .directory svg {
+  width: 10px;
+}
+body .contact-info > div .directory svg .--svg-fill {
+  fill: var(--primaryColor);
+  transition: all var(--duration);
+}
+body .contact-info > div .directory:hover span {
+  color: var(--secondaryColor);
+}
+body .contact-info > div .directory:hover svg .--svg-fill {
+  fill: var(--secondaryColor);
+}
+body .contact-info > div > div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+body .contact-info > div > div a svg {
+  width: 50px;
+}
+body .contact-info > div > div a svg .--svg-fill {
+  fill: var(--primaryColor);
+  transition: all var(--duration);
+}
+body .contact-info > div > div a svg .--svg-stroke {
+  stroke: var(--primaryColor);
+  transition: all var(--duration);
+}
+body .contact-info > div > div a:hover svg .--svg-fill {
+  fill: var(--secondaryColor);
+}
+body .contact-info > div > div a:hover svg .--svg-stroke {
+  stroke: var(--secondaryColor);
+}
+body .touch {
+  background: var(--whiteColor);
+  padding: 30px;
+}
+body .touch > article {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  place-items: center;
+  max-width: 800px;
+}
+body .touch > article h2 {
+  color: var(--primaryColor);
+  margin: 0;
+}
+body .touch > article > p {
+  margin: 0;
+  font-size: 1rem;
+  color: var(--primaryColor);
+  text-align: center;
+}
+body .touch-form {
+  margin-block: 40px;
+  display: grid;
+  grid-template-columns: 1fr;
+  width: 100%;
+  gap: 20px 60px;
+}
+body .touch-form > div {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 5px;
+}
+body .touch-form > div span {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: var(--primaryColor);
+  text-transform: capitalize;
+}
+body .touch-form > div input,
+body .touch-form > div textarea {
+  max-width: 100%;
+  width: 100%;
+  border: none;
+  border: 1px solid var(--primaryColor);
+  padding: 10px 10px;
+  background-color: transparent;
+  font-size: 1rem;
+}
+body .touch-form > div textarea {
+  min-height: 200px;
+}
+body .touch-form > div ._invalid {
+  border-color: #e81f1f;
+}
+body .touch-submit {
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: fit-content;
+}
+body .touch-submit .error {
+  color: #e81f1f;
+  text-align: left;
+  text-transform: capitalize;
+}
+body .touch-submit .--button {
+  max-width: 200px;
+  cursor: pointer;
+  width: 100%;
+}
+body .touch-submit ._loading,
+body .touch-submit ._done {
+  display: none;
+}
+body .map {
+  padding: 0;
+  height: 500px;
+}
+body .map > article {
+  max-width: 100%;
+  width: 100%;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+body .map > article iframe {
+  width: 100%;
+  border: 0;
+  height: 100%;
+}
+@media only screen and (min-width: 800px) {
+  body .contact > article {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    gap: 20px 100px;
+  }
+  body .contact-info {
+    align-items: flex-start;
+  }
+  body .contact-info > div {
+    align-items: flex-start;
+  }
+  body .contact-info > div span {
+    text-align: left;
+  }
+  body .contact-info > div a,
+  body .contact-info > div p {
+    text-align: left;
+  }
+  body .touch-form {
+    grid-template-columns: 1fr 1fr;
+  }
+  body .touch-form .--split {
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
+}

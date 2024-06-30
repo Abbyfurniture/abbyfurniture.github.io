@@ -1,0 +1,115 @@
+﻿@import 'Common/variable.less';
+@import 'hero.less';
+
+body {
+
+    .gallery {
+        > article {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-gap: 15px;
+
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                cursor: pointer;
+                object-position: bottom;
+                max-height: 500px;
+                pointer-events: auto;
+            }
+        }
+    }
+
+    .popup {
+        position: fixed;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #090b0db0;
+        z-index: 999999;
+
+        > article {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            max-height: 70vh;
+            max-width: 1000px;
+            padding-top: 50px;
+
+            > img {
+                width: 100%;
+                height: 100%;
+                object-fit: contain;
+            }
+        }
+
+        &-close {
+            position: absolute;
+            right: 0;
+            top: 50px;
+            width: 50px;
+            height: 50px;
+            padding: 5px;
+            font-size: 2rem;
+            color: var(--whiteColor);
+            cursor: pointer;
+            background-color: transparent;
+            border: none;
+            outline: none;
+        }
+    }
+}
+
+@media @break-medium{
+    body {
+        .gallery {
+            > article {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        .popup {
+            &-close {
+                right: 50px;
+            }
+        }
+    }
+}
+
+@media @break-large{
+    body {
+        .gallery {
+            > article {
+                grid-template-columns: repeat(4, 1fr);
+            }
+
+            &._use {
+                img {
+                    &:first-child {
+                        grid-row-start: 1;
+                        grid-row-end: 3;
+                        grid-column-start: 1;
+                        grid-column-end: 3;
+                        max-height: 100%;
+                    }
+
+                    &:last-child {
+                        grid-column-start: 1;
+                        grid-column-end: 5;
+                        grid-row-start: 3;
+                    }
+
+                    &:nth-child(4) {
+                        grid-column-start: 3;
+                        grid-column-end: 5;
+                        grid-row: 2;
+                    }
+                }
+            }
+        }
+    }
+}

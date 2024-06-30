@@ -1,0 +1,86 @@
+﻿@{
+    Html.Bundle("css/contact.css");
+    Html.Bundle("js/contact.js");
+}
+
+<section class="contact">
+    <article>
+        <div class="contact-image fade-left">
+            <h2>Contact Us</h2>
+        </div>
+        <div class="contact-info fade-right">
+            <div>
+                <span>Address</span>
+                <p>4010 Flower St, Cudahy, CA 90201, USA</p>
+                <a href="https://goo.gl/maps/h6aeEdz6adXj9E3J8" target="_blank" class="directory" aria-label="direction location">
+                    <span>Get Directory</span>
+                    <partial name="Assets/ArrowRight" />
+                </a>
+            </div>
+            <div>
+                <span>Mobile</span>
+                <a href="tel:+13234039646" target="_blank" aria-label="mobile">
+                    +1(323) 403-9646
+                </a>
+            </div>
+            <div>
+                <span>Email</span>
+                <a href="mailto:aboudicalifornia911@outlook.com" target="_blank" aria-label="mail">
+                    aboudicalifornia911@outlook.com
+                </a>
+            </div>
+           @* <div>
+                <span>Keep Connected</span>
+                <div>
+                    <a href="#" aria-label="facebook">
+                        <partial name="Assets/FacebookCircle" />
+                    </a>
+                    <a href="#" aria-label="instagram">
+                        <partial name="Assets/InstagramCircle" />
+                    </a>
+                </div>
+            </div>*@
+        </div>
+    </article>
+</section>
+
+<section class="touch">
+    <article>
+        <h2 class="fadein">Get in Touch</h2>
+        <p class="fadein">
+            Please fill the form and we’ll get back to you the soonest!
+        </p>
+        <div class="touch-form fadein">
+            <div>
+                <span>Full Name *</span>
+                <input type="text"  spellcheck="false" name="name"/>
+            </div>
+            <div>
+                <span>Mobile *</span>
+                <input type="text" spellcheck="false" name="mobile" />
+            </div>
+            <div class="--split">
+                <span>Email</span>
+                <input type="text" spellcheck="false" name="email" />
+            </div>
+            <div class="--split">
+                <span>Message</span>
+                <textarea spellcheck="false" name="message"></textarea>
+            </div>
+        </div>
+        <div class="touch-submit fadein">
+            <span class="error"></span>
+            <button id="submit" class="--button">
+                <partial name="Assets/Emogy" />
+                <span>Submit</span>
+            </button>
+        </div>
+    </article>
+</section>
+
+<section class="map">
+    <article id="map" class="fadein">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206.81114877896223!2d-118.19690768787505!3d33.96739517202555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2ceb02dfa125f%3A0x280f0417433e1ea7!2s4010%20Flower%20St%2C%20Cudahy%2C%20CA%2090201%2C%20USA!5e0!3m2!1sen!2slb!4v1691475129541!5m2!1sen!2slb"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </article>
+</section>
+

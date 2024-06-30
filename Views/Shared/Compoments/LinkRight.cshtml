@@ -1,0 +1,8 @@
+﻿@{
+    string currentPath = ViewData["CurrentPath"].ToString();
+}
+
+
+<li><a href="portfolio" aria-label="portfolio" class="@(currentPath=="portfolio" ? "_active" : null)">Portfolio</a></li>
+<li><a href="gallery" aria-label="gallery" class="@(currentPath=="gallery" ? "_active" : null)">Gallery</a></li>
+<li><a href="contact-us" aria-label="contact us" class="@(currentPath=="contact-us" ? "_active" : null)">Contact Us</a></li>

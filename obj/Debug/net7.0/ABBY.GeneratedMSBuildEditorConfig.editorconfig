@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ABBY
+build_property.RootNamespace = ABBY
+build_property.ProjectDir = C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\farha\Downloads\New folder (3)\New folder\abbyfurniture.github.io\ABBY
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/AboutUs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRVc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/ContactUs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Gallery/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsbGVyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Portfolio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Services/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Assets/Arrow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzc2V0c1xBcnJvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Assets/ArrowRight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzc2V0c1xBcnJvd1JpZ2h0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Assets/Emogy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzc2V0c1xFbW9neS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Assets/Facebook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzc2V0c1xGYWNlYm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Assets/Facebook1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzc2V0c1xGYWNlYm9vazEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Assets/FacebookCircle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzc2V0c1xGYWNlYm9va0NpcmNsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Assets/Instagram.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzc2V0c1xJbnN0YWdyYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Assets/InstagramCircle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzc2V0c1xJbnN0YWdyYW1DaXJjbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Assets/Logo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzc2V0c1xMb2dvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Assets/Logo1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzc2V0c1xMb2dvMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Assets/Round.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzc2V0c1xSb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Assets/Whatsapp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzc2V0c1xXaGF0c2FwcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Compoments/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbWVudHNcRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Compoments/Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbWVudHNcSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Compoments/LinkLeft.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbWVudHNcTGlua0xlZnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Compoments/LinkRight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbWVudHNcTGlua1JpZ2h0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Compoments/Links.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbWVudHNcTGlua3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/Compoments/SocialMeida.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbWVudHNcU29jaWFsTWVpZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/farha/Downloads/New folder (3)/New folder/abbyfurniture.github.io/ABBY/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,14 @@
+﻿@{
+    Html.Bundle("css/gallery.css");
+    Html.Bundle("js/gallery.js");
+}
+
+<section class="gallery">
+    <article>
+        @for(int i = 1; i <= 30; i++)
+        {
+            <img src="img/gallery/@(i).webp" class="fadein" alt="gallery image @(i)" />
+        }
+    </article>
+</section>
+

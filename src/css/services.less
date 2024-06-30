@@ -1,0 +1,81 @@
+﻿@import 'Common/variable.less';
+@import 'hero.less';
+
+body {
+    .hero {
+        background-image: url(/img/service/hero.webp);
+        background-position: center;
+    }
+
+    .services {
+        > article {
+            display: flex;
+            flex-direction: column;
+            gap: 100px;
+            width: 100%;
+            align-items: flex-start;
+            max-width: 600px;
+        }
+
+        &-service {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            align-items: stretch;
+            justify-content: center;
+            gap: 50px;
+
+            &-information {
+                display: flex;
+                flex-direction: column;
+                gap: 20px;
+
+                h2 {
+                    text-align: left;
+                    color: var(--primaryColor);
+                    margin: 0;
+                    text-transform: capitalize;
+                }
+
+                p {
+                    color: var(--primaryColor);
+                    font-weight: normal;
+                    font-size: 1rem;
+                    text-align: justify;
+                }
+            }
+
+            &-image {
+                width: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                img {
+                    width: 100%;
+                    object-fit: cover;
+                    box-shadow: 0 0 2px var(--whiteColor);
+                }
+            }
+
+            &:nth-child(even) {
+                flex-direction: column-reverse;
+            }
+        }
+    }
+}
+
+
+@media @break-medium{
+    body {
+        .services {
+            >article{
+                max-width:var(--maxWidth);
+            }
+            &-service {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+    }
+    }
